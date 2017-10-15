@@ -1,5 +1,7 @@
 # Webpack 3 Boilerplate
 
+Uma introdução amigável e abrangente para webpack e react.
+
 O React é uma incrível biblioteca de Javascript desenvolvido pelo Facebook para desenvolver interfaces de usuário incríveis que são rápidas, eficientes e escaláveis. 
 O Webpack 3.0 acabou de ser lançado há alguns dias e eu decidi fazer esse repositório tb para ajudar os novatos no mundo do React a criar um ambiente de desenvolvimento de react com o webpack e babel. 
 
@@ -23,20 +25,23 @@ npm install webpack -g
 Clonar este repositório
 
 ```
-git clone X
+git clone https://github.com/cahfelix/webpack-boilerplate.git
 ```
 
 Acessar a pasta do projeto 
 
 ```
-cd X
+cd webpack-boilerplate
 ```
 
 Instale as dependências
 
 ```
 npm install
+
 ```
+
+## Pronto
 
 Pronto, agora rode o seguinte commando para subir o ambiente de desenvolvimento
 
@@ -45,8 +50,8 @@ npm run dev
 ```
 
 ## Autor
-Cah Felix - cahfelix.com.br
+Cah Felix - http://cahfelix.com.br
 
 ## Contribuidores
-Cah Felix - cahfelix.com.br
+Cah Felix - http://cahfelix.com.br
 
